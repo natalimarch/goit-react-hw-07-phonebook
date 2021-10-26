@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "contacts": [
+    {
+      "name": "Jessica",
+      "number": "5553205",
+      "id": "057yUi365"
+    },
+    {
+      "name": "Natalie",
+      "number": "5455444",
+      "id": "6UfvCPx"
+    },
+    {
+      "name": "Anna",
+      "number": "45544343",
+      "id": "zzoI5z2"
+    }
+  ]
+}
